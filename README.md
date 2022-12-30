@@ -43,3 +43,15 @@ password: Aa1234567890
 - Changing Password
 - Like and Unliking Article
 - Statistical Data of the System
+
+# Account
+Google:
+theflarestudentpublication@gmail.com
+theflarestudentpublication123
+
+Hostinger:
+theflarestudentpublication@theflarepublication.online
+Theflarestudentpublication123?
+
+webhost, FTP pass:
+Nicholguasa23?
